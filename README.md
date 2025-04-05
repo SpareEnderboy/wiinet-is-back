@@ -26,11 +26,10 @@ Before WiiNet was shutdown, it contained 5 main features.
    - Webpages either ported to or made for the Internet Channel
    - Links to other websites that are designed to work on the Wii
 
-That is all for now, stay tuned for more updates on the project by joining the [Discord](https://discord.gg/PBuAbQbrXJ)
-
 
 ### Dependencies
 This is an incomplete, flawed list that will hopefully get more acccurate and helpful with time.
+I cannot edit this since this is just WiiNet, back.
 
 We currently use:
 - apache2
