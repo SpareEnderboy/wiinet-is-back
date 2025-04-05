@@ -1,10 +1,10 @@
-# WiiNet
+# WiiNet is back
 ![screenshot_2022-4-19](https://user-images.githubusercontent.com/83787150/163919849-51f35035-7813-4ce2-b31f-3d0131b811bc.png)
-The Internet Channel, revived
+The Internet Channel and WiiNet, revived
 
 
 ## Features
-Right now, WiiNet contains 5 main features.
+Before WiiNet was shutdown, it contained 5 main features.
 1. Games
    - Play a variety of Web games on the Wii
    - Many are sourced from BlueMaxima's Flashpoint
