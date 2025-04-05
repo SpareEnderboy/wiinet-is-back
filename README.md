@@ -1,7 +1,7 @@
 # WiiNet is back
 ![screenshot_2022-4-19](https://user-images.githubusercontent.com/83787150/163919849-51f35035-7813-4ce2-b31f-3d0131b811bc.png)
 The Internet Channel and WiiNet, revived
-
+### To use this on your Wii, open the Internet Channel and visit noahscratch493.github.io/wiinet-is-back
 
 ## Features
 Before WiiNet was shutdown, it contained 5 main features.
